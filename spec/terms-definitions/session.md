@@ -1,4 +1,4 @@
-[[def:session, Session]]
+[[def:session, Session, Sessions]]
 
 ~ A unique combination of [[ref: Talk]], [[ref:Timeslot]] and [[ref:Room]]. 
 
