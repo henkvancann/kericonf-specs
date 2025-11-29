@@ -10,7 +10,6 @@
       "markdown_paths": [
         "spec-head.md",
         "terms-and-definitions-intro.md",
-        "example-markup-in-markdown.md",
         "spec-body.md"
       ],
       "logo": "https://raw.githubusercontent.com/trustoverip/spec-up-t/refs/heads/master/src/install-from-boilerplate/boilerplate/static/logo.svg",
@@ -23,12 +22,6 @@
         "branch": "main"
       },
       "external_specs": [
-        {
-          "external_spec": "vLEI",
-          "gh_page": "https://henkvancann.github.io/vlei-glossary/",
-          "url": "https://github.com/henkvancann/vlei-glossary",
-          "terms_dir": "spec/terms-definitions"
-        },
         {
           "external_spec": "KERISuite",
           "gh_page": "https://weboftrust.github.io/kerisuite-glossary/",

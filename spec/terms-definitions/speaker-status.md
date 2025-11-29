@@ -1,4 +1,4 @@
-[[def: speaker-status, Speaker Status, Status of Speaker]]
+[[def: speaker-status, Speaker Status, Status of Speaker, Status of the Speaker]]
 
 ~ Status options; one of
 ~ - NAMED=Org thinks speaker could deliver

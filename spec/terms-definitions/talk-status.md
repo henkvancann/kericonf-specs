@@ -1,4 +1,4 @@
-[[def: talk-status, Talk Status, Status of the Talk]]
+[[def: talk-status, Talk Status, Status of Talk, Status of the Talk]]
 
 ~ Status options; one of
 ~ - PLANNED = Org planned
