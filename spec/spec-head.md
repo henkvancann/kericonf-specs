@@ -1,7 +1,8 @@
-# Spec-Up-T Demo
+# KERICONF Specifications and wording (Spec-Up-T based)
 
 ## Intro
 
-This is a default Spec-Up-T installation. Find information on the [Spec-Up-T documentation website](https://trustoverip.github.io/spec-up-t-website/).
+This is a default Spec-Up-T installation. Find information on the inner working of the specification tool Spec-Up-T on its [Documentation website](https://trustoverip.github.io/spec-up-t-website/).
 
-This is a demo site for Spec-Up-T. The subject matter – gardening and related terms – is used purely as an example to demonstrate how the system works. You can replace these demo terms and definitions with your own content to suit your documentation needs.
+The organization of a KERICONF is standardized off the bat. This means that for organizers, venue, suppliers, service-providers,  sponsor, speakers, and finally, the most important category, visitors, we have this document with a glossary so as to support a smooth development and execution path of the coming KERICONF and the aftermath.
+
