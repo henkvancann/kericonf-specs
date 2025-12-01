@@ -10,6 +10,14 @@ This way you can overcome the temporary lack of final commitments and still pres
 
 As long as we don't have solid commitment of people, one important point to consider at all times is privacy.
 
+### Single source of truth
+
+Please edit program content in merge letters, emails, pdf, on the website in table always in the single source of truth and not (only) in the expression at hand.
+
+> Google Sheet (2026 [talks-speakers-rooms](https://docs.google.com/spreadsheets/d/1bET8KvpFACJFyAIv6g0c6RSvCOg2midnu4gwI5oOOLg/edit?resourcekey=&gid=567720881#gid=567720881))
+
+> **Tab "Talks"**
+ 
 ### Privacy
 
 As ideas evolve about [[ref: Topics]] and possible [[ref: Speakers]], we need to carefully handle the information publicized on the web.
