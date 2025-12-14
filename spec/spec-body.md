@@ -12,8 +12,10 @@ The handbook works together with the Github.com repo KERCONFYY under keri-founda
 
 Timing, budget, attendance expectations, [[ref: sponsor]] viability, [[ref: speakers]] availability.
 
-### Scope  
+### Scope
+
 Covers the entire **lifecycle**:
+
 - Concept → Planning → Program → Execution → Afterwork  
 - **Covers** venue, reservations, negotiations, sponsors, speakers, visitors, tickets, logistics, hotels, communication, technical tooling, and privacy.
 
@@ -22,6 +24,7 @@ Covers the entire **lifecycle**:
 Just after the afterwork of the past conference, the organization of the next conference starts.
 
 #### Preparatory activities
+
 - Check dates of other conferences and pick convenient dates for your own
 - Longlist and shortlist cities and countries
 - Assignment letters for supporting personnel: operational organizer, website and webshop support, marketing support
@@ -29,13 +32,14 @@ Just after the afterwork of the past conference, the organization of the next co
 
 
 #### Milestones
+
 - Milestone: KCYY-v0.1 - Framework Sponsors and Venue and Theme Layout
-- Milestone: KC26-v0.2 Website up & running ticket early bird started
-- Milestone: KC26-v0.3 Program and Speakers, Room plan, brochures & flyers
-- Milestone: KC26-v0.4 Social Media campagne set up to be in a flow until after conference
-- Milestone: KC26-v0.5 Catering organised and synced with venue
-- Milestone: KC26-v1.0 Organisation complete
-- Milestone: KC26-v2.0 Marketing done, target amount of visitors have subscribed
+- Milestone: KCYY-v0.2 Website up & running ticket early bird started
+- Milestone: KCYY-v0.3 Program and Speakers, Room plan, brochures & flyers
+- Milestone: KCYY-v0.4 Social Media campagne set up to be in a flow until after conference
+- Milestone: KCYY-v0.5 Catering organised and synced with venue
+- Milestone: KCYY-v1.0 Organisation complete
+- Milestone: KCYY-v2.0 Marketing done, target amount of visitors have subscribed
 
 #### Continuous process milestones
 Self-explanatory:
@@ -56,17 +60,18 @@ Self-explanatory:
 
 ### Roles and Responsibilities 
 
-One individual can have more roles.
+One individual can have more [[ref: roles]].
 
 - Conference Lead/organizer
 - Program Coordinator
 - Operational organizer
 - Sponsorship Coordinator
-- Speakers Coordinator   
-- Website & Tooling Lead 
+- Speakers Coordinator
+- Website & Tooling Lead
 - On-site Staff & Volunteers
 
-### Chicken-and-Egg Problem  
+### Chicken-and-Egg Problem
+
 Sponsor → speakers → visitors.  
 But if you only have a date and venue (no speakers or visitors yet), what can you do?
 
@@ -83,6 +88,7 @@ This helps attract interest and overcome temporary lack of commitments.
 Create tracks, initial themes, high-level goals.
 
 For nearly all aspects of this organization there are concepts available in the GitHub.com repo of the former editions:
+
 - Sponsor invites, speakers invites
 - In-kind sponsorships
 - Honorarium for speakers
@@ -123,44 +129,51 @@ Enables publishing an attractive outline early in the process.
 
 In the program, we will have coloured status info about the SPEAKER (speaker invited (yellow), open for proposal (orange), speaker proposal received (orange-green), speaker confirmed: (green)). For example, think of a color scale from orange to green, pastel colors.
 
-In the program, we will have coloured status info about the [[ref: Talk]]: planned (orange), settled in proposal (orange-blue), programmed (blue). For example, think of a color scale from orange to blue, pastel colors. 
+In the program, we will have coloured status info about the [[ref: Talk]]: planned (orange), settled in proposal (orange-blue), programmed (blue). For example, think of a color scale from orange to blue, pastel colors.
 
 — [[ref: Speaker Status]] tags
 — [[ref: Talk Status]] tags
 
-
 ## Program Development
 
 ### Single Source of Truth (SSOT)
+
+Conference data changes a lot in a short period of time. Many people are involved. Therefore the core data needs a [[ref:SSOT]].
 
 ::: todo Really Important  
 Please edit program content in merge letters, emails, PDFs, and on the website **always in the single source of truth**,  
 and not (only) in the expression at hand.  
 :::
 
-#### SSOT Location  
+#### SSOT Location
+
 > Google Sheet (2026 version):  
 > https://docs.google.com/spreadsheets/d/1bET8KvpFACJFyAIv6g0c6RSvCOg2midnu4gwI5oOOLg/edit  
 
 > **Tab: “Talks”**
 
-### Mail Merge Workflow  
+### Mail Merge Workflow
+
 1. Edit content in the Google Sheet  
 2. Export the correct view as CSV  
 3. Refresh the CSV in the Word merge document  
 4. Finalize output and validate fields  
 5. Iterate until correct  
 
-### Program Publication Pipeline  
+### Program Publication Pipeline
+
 Connected later with privacy rules in the named section.
 
 ## Privacy & Data Handling
 
-### General Privacy Principles  
+### General Privacy Principles
+
 As ideas evolve about **[[ref: Topics]]** and potential **[[ref: Speakers]]**, care must be taken when publishing online.
 
-### Placeholders & Obfuscation  
-Before mutual agreement exists (sponsorship, talk, support, attendance):  
+### Placeholders & Obfuscation
+
+Before mutual agreement exists (sponsorship, talk, support, attendance):
+
 - Use placeholders  
 - Keep all information obfuscated  
 
@@ -168,7 +181,8 @@ Before mutual agreement exists (sponsorship, talk, support, attendance):
 “A Dutch airline starting with a ‘K’…” is **not** good obfuscation.  
 :::
 
-### Google Sheets & PII 
+### Google Sheets & PII
+
 We use Google Sheets and rely on their privacy statement:  
 - https://support.google.com/docs/answer/10381817  
 - https://workspace.google.com/terms/09242021/dpa_terms/  
@@ -263,9 +277,10 @@ Voice, terminology, expectations.
 
 ## Technical Infrastructure  
 ### GitHub Repositories  
-Issues, PR workflow, documentation standards.
+Milestones, [[ref: Issues]], PR workflow, documentation standards.
 
 ### Website  
+
 Data pipeline, publishing scripts, staging vs production.
 
 ### Registration & Ticketing Tools  
@@ -365,17 +380,30 @@ First-aid, emergency contacts, evacuation plan.
 Invoices, reimbursements, final budget.
 
 ### Archiving  
-Store SSOT, contracts, receipts, decisions, slides.
+Store [[ref:SSOT]], contracts, receipts, decisions, slides.
 
 ### Kickoff for Next Year  
 Review improvements and update tracks/lines.
 
 ## Appendices  
+
 ### Templates  
-Invitations, sponsor decks, privacy statements, volunteer briefings.
 
-### Tools Index  
-Google Sheets, GitHub, website scripts, registration system, communication channels.
+Think of topics like Invitations, sponsor decks, privacy statements, volunteer briefings. All of this templates are already present in the GitHub repository of past editions of KERICONF, as well as in the website archive of those editions.
 
-### Glossary  
-Tracks, Lines, PII, SSOT, statuses, roles.
+### Tools Index
+
+- GitHub.com issue-handling: [KERI Foundation KERICONFYY](https:github.com/keri-foundation/KERICONF26/issues)
+  
+- Google Sheets: private sheet containing some [[ref: pii]]: [Link 2026]()
+
+- scripts to feed the website: in [[ref: views]] we prepared data that needs to show in the site, in mailings (merge letters) and social media expressions.
+
+- Website back-end: [Wordpress](https://kericonf.com/wp-admin)
+
+- Table editor
+
+- Ticketing system: In 2026 it's [SimpleTix](https://simpletix.com)
+
+- Forwarder email settings: at the hosting back-end we configure forwarders from roles to people's email adresses.
+
