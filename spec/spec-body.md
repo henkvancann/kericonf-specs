@@ -117,6 +117,15 @@ Texts to copy-paste into Social Media expression
 
 ## Core Framework
 
+The framework is centered around the website [kericonf.com](https://kericonf.com) website. 
+
+Every edition these things change:
+[[ref: lines]], [[ref: tracks]], [[ref: program]], [[ref: talks]], sponsors, speakers, venue, location 
+
+For archiving purposes and indirectly sponsor and speakers arrangements we have kept track of each edition from the start. Anticipate on archiving later to the ‘past events’ page after the conference; so be sure to link to a subpage like "./2026"
+
+This can ephemeral: tickets, about, and contact. This doesn't need to be archived per edition and does not need a corresponding subdirectory on the website.
+
 ### Tracks and Lines
 
 Framework for building a program skeleton without confirmed speakers.
